@@ -13,10 +13,10 @@ title                    : "Matthias Gille Levenson"
 title_separator          : "-"
 name                     : &name "Gille Levenson"
 description              : &description "Page professionnelle"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://matgille.github.io/matthias.gille-levenson.github.io # The base hostname & protocol for your site e.g. "https://matgille/matthias.gille-levenson.github.io",
+url                      : https://matgille.github.io/ # The base hostname & protocol for your site e.g. "https://matgille/matgille.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "matgille/matthias.gille-levenson.github.io"
+repository               : "matgille/matgille.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -30,7 +30,7 @@ author:
   location         : "Lyon"
   employer         : "University Saint Quentin en Yvelines"
   uri              : # URL
-  email            : "matthias.gille-levenson@ens-lyon.fr" 
+  email            : "matgille@ens-lyon.fr" 
 
   # Academic websites
   academia         : # URL
